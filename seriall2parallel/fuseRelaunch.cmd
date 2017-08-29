@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/torben/sync/FHDW/BES2-U2/vhdl/Projekte/seriall2parallel2/serial2parallel_tb_isim_beh.exe" -prj "/home/torben/sync/FHDW/BES2-U2/vhdl/Projekte/seriall2parallel2/serial2parallel_tb_beh.prj" "work.serial2parallel_tb" 

@@ -1,0 +1,55 @@
+0 0 1
+0 0 0
+0 0 0
+0 0 0 
+0 0 0
+1 1 0 //Test1 Start
+1 1 0
+1 1 0
+1 1 0
+1 1 0
+1 1 0
+1 1 0
+1 1 0 //Test1 End
+0 1 0 //Test1 Start
+0 1 0
+0 1 0
+0 1 0
+0 1 0
+0 1 0
+0 1 0
+0 1 0  //Test2 End
+1 1 0 //Test3 Start
+0 1 0
+1 1 0
+0 1 0
+1 1 0
+0 1 0
+1 1 0
+0 1 0  //Test3 End
+1 1 0  //Test4 Start
+1 1 0
+0 1 0
+0 0 0  //Test4 ens auf 0 und ein paar takte so halten
+0 0 0
+0 0 0
+0 0 0 
+0 0 0 
+0 0 0
+0 0 0 //Test4 End
+1 1 0 //Test5 Start
+1 1 0
+1 1 0
+1 1 0
+1 1 0
+1 1 0
+1 1 0
+1 1 0 //Test5 End
+1 1 0 //Test6 Start
+1 1 0
+1 1 0
+0 1 0
+1 1 0
+0 1 0
+0 1 0
+1 1 0 //Test6 End

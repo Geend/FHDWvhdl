@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/torben/sync/FHDW/BES2-U2/vhdl/stopwatch/stopwatch_tb_isim_beh.exe" -prj "/home/torben/sync/FHDW/BES2-U2/vhdl/stopwatch/stopwatch_tb_beh.prj" "work.stopwatch_tb" 
